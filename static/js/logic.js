@@ -138,7 +138,7 @@ function createQuakes(response) {
 
 d3.json(link, createQuakes);
 
-
+// attempt to complete the optional task
 function addFaults(response){
     console.log(response);
     
